@@ -10,3 +10,7 @@ for(let i = 0; i < scores.length; i++){
     totalScore += scores[i];
 }
 console.log(totalScore);
+
+tags.forEach((tag) => {
+    console.log(tag);
+});
