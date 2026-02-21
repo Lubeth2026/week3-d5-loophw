@@ -19,3 +19,6 @@ const doubledScores = scores.map((score)=>{
     return score * 2
 })
 console.log(doubledScores);
+
+console.log("build: finish mini-build");
+
